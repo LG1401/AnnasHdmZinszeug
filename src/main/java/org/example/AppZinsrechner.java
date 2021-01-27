@@ -5,7 +5,7 @@ package org.example;
  * Testing simple accounts
  *
  */
-public class App {
+public class AppZinsrechner {
     /**
      * @param args unused
      */
